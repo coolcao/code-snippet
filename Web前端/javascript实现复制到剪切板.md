@@ -1,6 +1,6 @@
 
 ---
-tag: [javascript, js, 剪切板, 粘贴板]
+tag: [javascript, js, 剪切板, 粘贴板, 剪贴板]
 ---
 
 ```js

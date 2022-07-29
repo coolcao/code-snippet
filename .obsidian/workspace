@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "37486427f82e5ab5",
+        "id": "fcfac09eb844443a",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "剪贴板",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +53,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,10 +120,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "37486427f82e5ab5",
+  "active": "3b42b7fb6b15fdb2",
   "lastOpenFiles": [
-    "Web前端/javascript实现复制到剪切板.md",
     "MySQL/mysql登录命令.md",
+    "Web前端/javascript实现复制到剪切板.md",
     "模板/模板.md"
   ]
 }

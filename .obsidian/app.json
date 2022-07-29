@@ -1,0 +1,9 @@
+{
+  "vimMode": true,
+  "showLineNumber": true,
+  "newFileLocation": "root",
+  "attachmentFolderPath": "附件",
+  "userIgnoreFilters": [
+    "模板/"
+  ]
+}
